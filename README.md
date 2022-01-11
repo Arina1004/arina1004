@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m Arina, a Ruby backend developer. I have 2 years of development experience that started at JetRockets.
+I’m Arina, a Ruby backend developer. I have 3 years of development experience that started at JetRockets.
 
 ## Get in touch 
 
